@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Hanken+Grotesk:wght@400;600;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-headline: "Playfair Display", serif;
+  --font-body: "Hanken Grotesk", sans-serif;
+}
+
